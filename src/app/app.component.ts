@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'random';
+
 }
+var a = Math.random();
+console.log(a);
